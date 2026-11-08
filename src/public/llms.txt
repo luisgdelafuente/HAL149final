@@ -1,0 +1,26 @@
+# HAL149
+
+> HAL149 is the personal publishing platform of Luis, a strategist and builder working at the intersection of AI, business architecture and philosophy. It publishes essays, project write-ups and field notes on how organizations should be redesigned around autonomous, AI-native capabilities, backed by long-horizon thinking. English at the root, Spanish under /es/.
+
+## Topic hubs
+- [Agentic Systems](https://hal149.com/topics/agentic-systems): software that pursues goals by planning, using tools and acting within permissions.
+- [AI-Native Business Architecture](https://hal149.com/topics/ai-native-business-architecture): designing structure, processes and governance around autonomous capabilities.
+- [Philosophy of Technology](https://hal149.com/topics/philosophy-of-technology): purpose, judgment, responsibility and delegation.
+- [The Future of Work & Organizations](https://hal149.com/topics/future-of-work-and-organizations): roles, hybrid teams and management with AI agents.
+
+## Key essays
+- [The Company as an Operating System](https://hal149.com/blog/company-as-operating-system)
+- [Why Agents Will Replace Interfaces](https://hal149.com/blog/why-agents-will-replace-interfaces)
+- [Foresight Is a Discipline, Not a Talent](https://hal149.com/blog/foresight-is-a-discipline)
+- [Designing Organizations for Non-Human Colleagues](https://hal149.com/blog/designing-organizations-for-non-human-colleagues)
+- [On Delegation to Machines](https://hal149.com/blog/on-delegation-to-machines)
+
+## Projects
+- [Epica Works — Agentic Websites for SMBs](https://hal149.com/blog/epica-works)
+- [Jarvis Home — A Voice Layer for the Home](https://hal149.com/blog/jarvis-home)
+- [HAL149 Lab — Experiments in Autonomous Marketing](https://hal149.com/blog/hal149-lab-autonomous-marketing)
+
+## Optional
+- [About](https://hal149.com/about)
+- [Contact](https://hal149.com/contact)
+- [Español](https://hal149.com/es)

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAL149 — Transmisiones</title>
+    <link>https://hal149.com/es/blog</link>
+    <description>Ensayos, proyectos y notas de campo sobre sistemas agénticos, arquitectura empresarial IA-nativa y pensamiento a largo plazo.</description>
+    <language>es</language>
+    <atom:link href="https://hal149.com/es/rss.xml" rel="self" type="application/rss+xml"/>
+    <item><title>La empresa como sistema operativo</title><link>https://hal149.com/es/blog/la-empresa-como-sistema-operativo</link><guid>https://hal149.com/es/blog/la-empresa-como-sistema-operativo</guid><pubDate>Tue, 03 Nov 2026 09:00:00 GMT</pubDate><description>La IA convierte la metáfora del sistema operativo en literal.</description></item>
+    <item><title>Notas de campo de una semana construyendo agentes</title><link>https://hal149.com/es/blog/notas-de-campo-una-semana-construyendo-agentes</link><guid>https://hal149.com/es/blog/notas-de-campo-una-semana-construyendo-agentes</guid><pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate><description>Bitácora diaria de la construcción de un agente de investigación.</description></item>
+    <item><title>Por qué los agentes reemplazarán las interfaces</title><link>https://hal149.com/es/blog/por-que-los-agentes-reemplazaran-las-interfaces</link><guid>https://hal149.com/es/blog/por-que-los-agentes-reemplazaran-las-interfaces</guid><pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate><description>La interfaz se repliega en un contrato.</description></item>
+    <item><title>Epica Works — Webs agénticas para pymes</title><link>https://hal149.com/es/blog/epica-works</link><guid>https://hal149.com/es/blog/epica-works</guid><pubDate>Thu, 08 Oct 2026 09:00:00 GMT</pubDate><description>Webs de pymes que responden, cualifican y reservan.</description></item>
+    <item><title>La prospectiva es una disciplina, no un talento</title><link>https://hal149.com/es/blog/la-prospectiva-es-una-disciplina</link><guid>https://hal149.com/es/blog/la-prospectiva-es-una-disciplina</guid><pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate><description>Ejercicios practicados con regularidad.</description></item>
+    <item><title>Diseñar organizaciones para colegas no humanos</title><link>https://hal149.com/es/blog/disenar-organizaciones-para-colegas-no-humanos</link><guid>https://hal149.com/es/blog/disenar-organizaciones-para-colegas-no-humanos</guid><pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate><description>Incorporación, responsabilidad y confianza en equipos con agentes.</description></item>
+    <item><title>Sobre delegar en máquinas</title><link>https://hal149.com/es/blog/sobre-delegar-en-maquinas</link><guid>https://hal149.com/es/blog/sobre-delegar-en-maquinas</guid><pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate><description>Delegar es un acto moral antes que técnico.</description></item>
+    <item><title>Jarvis Home — Una capa de voz para el hogar</title><link>https://hal149.com/es/blog/jarvis-home</link><guid>https://hal149.com/es/blog/jarvis-home</guid><pubDate>Wed, 15 Jul 2026 09:00:00 GMT</pubDate><description>Agentes ambientales locales y discretos.</description></item>
+    <item><title>HAL149 Lab — Experimentos de marketing autónomo</title><link>https://hal149.com/es/blog/hal149-lab-marketing-autonomo</link><guid>https://hal149.com/es/blog/hal149-lab-marketing-autonomo</guid><pubDate>Wed, 10 Jun 2026 09:00:00 GMT</pubDate><description>Dónde ayuda la autonomía en marketing y dónde falla.</description></item>
+  </channel>
+</rss>

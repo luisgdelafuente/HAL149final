@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAL149 — Transmissions</title>
+    <link>https://hal149.com/blog</link>
+    <description>Essays, projects and field notes on agentic systems, AI-native business architecture and long-horizon thinking.</description>
+    <language>en</language>
+    <atom:link href="https://hal149.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item><title>The Company as an Operating System</title><link>https://hal149.com/blog/company-as-operating-system</link><guid>https://hal149.com/blog/company-as-operating-system</guid><pubDate>Tue, 03 Nov 2026 09:00:00 GMT</pubDate><description>Companies already allocate scarce resources, schedule work and enforce permissions. AI makes the operating-system metaphor literal.</description></item>
+    <item><title>Field notes from a week of agent building</title><link>https://hal149.com/blog/field-notes-week-of-agent-building</link><guid>https://hal149.com/blog/field-notes-week-of-agent-building</guid><pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate><description>A daily log from building a research agent for a real team.</description></item>
+    <item><title>Why Agents Will Replace Interfaces</title><link>https://hal149.com/blog/why-agents-will-replace-interfaces</link><guid>https://hal149.com/blog/why-agents-will-replace-interfaces</guid><pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate><description>As agents learn intent, the interface recedes into a contract.</description></item>
+    <item><title>Epica Works — Agentic Websites for SMBs</title><link>https://hal149.com/blog/epica-works</link><guid>https://hal149.com/blog/epica-works</guid><pubDate>Thu, 08 Oct 2026 09:00:00 GMT</pubDate><description>Turning small-business websites into agents that answer, qualify and book.</description></item>
+    <item><title>Foresight Is a Discipline, Not a Talent</title><link>https://hal149.com/blog/foresight-is-a-discipline</link><guid>https://hal149.com/blog/foresight-is-a-discipline</guid><pubDate>Mon, 28 Sep 2026 09:00:00 GMT</pubDate><description>Foresight is closer to fitness: exercises practiced on a schedule.</description></item>
+    <item><title>Designing Organizations for Non-Human Colleagues</title><link>https://hal149.com/blog/designing-organizations-for-non-human-colleagues</link><guid>https://hal149.com/blog/designing-organizations-for-non-human-colleagues</guid><pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate><description>Onboarding, accountability and trust for teams that include agents.</description></item>
+    <item><title>On Delegation to Machines</title><link>https://hal149.com/blog/on-delegation-to-machines</link><guid>https://hal149.com/blog/on-delegation-to-machines</guid><pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate><description>Delegation is a moral act before it is a technical one.</description></item>
+    <item><title>Jarvis Home — A Voice Layer for the Home</title><link>https://hal149.com/blog/jarvis-home</link><guid>https://hal149.com/blog/jarvis-home</guid><pubDate>Wed, 15 Jul 2026 09:00:00 GMT</pubDate><description>Ambient agents that stay local and stay quiet.</description></item>
+    <item><title>HAL149 Lab — Experiments in Autonomous Marketing</title><link>https://hal149.com/blog/hal149-lab-autonomous-marketing</link><guid>https://hal149.com/blog/hal149-lab-autonomous-marketing</guid><pubDate>Wed, 10 Jun 2026 09:00:00 GMT</pubDate><description>Where autonomy helps in marketing, and where it quietly fails.</description></item>
+  </channel>
+</rss>

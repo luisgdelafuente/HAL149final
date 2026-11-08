@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 36 596 776">
+  <style>
+    g { fill: #050B1A; }
+    @media (prefers-color-scheme: dark) { g { fill: #E6EEF8; } }
+  </style>
+  <g>
+    <circle cx="167" cy="283" r="97"/><circle cx="167" cy="565" r="97"/>
+    <circle cx="358" cy="143" r="97"/><circle cx="358" cy="424" r="97"/><circle cx="358" cy="705" r="97"/>
+    <circle cx="549" cy="283" r="97"/><circle cx="549" cy="565" r="97"/>
+    <path d="M100 353 Q160 424 100 495 L234 495 Q174 424 234 353 Z"/>
+    <path d="M291 213 Q351 283.5 291 354 L425 354 Q365 283.5 425 213 Z"/>
+    <path d="M291 494 Q351 564.5 291 635 L425 635 Q365 564.5 425 494 Z"/>
+    <path d="M482 353 Q542 424 482 495 L616 495 Q556 424 616 353 Z"/>
+  </g>
+</svg>
